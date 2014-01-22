@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio Database Files
+*.suo
+*.sdf
+*.vcxproj.user
+*.opensdf
