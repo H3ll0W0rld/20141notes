@@ -64,6 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="a1test.cpp" />
     <ClCompile Include="console.cpp" />
     <ClCompile Include="consolelineedit.cpp" />
   </ItemGroup>
